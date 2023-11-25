@@ -1,7 +1,7 @@
-## Amazing file
+## Blockchain Impact on Business Model
 
 this is my contribution
 
-![](blockchain impact on BM.png) 
+![](blockchain_impact_on_BM.png) 
 
 thanks
